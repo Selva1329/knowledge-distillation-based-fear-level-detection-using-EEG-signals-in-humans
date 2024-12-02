@@ -1,9 +1,10 @@
 <body>
-    <h1 style="text-align:center;"># knowledge-distillation-based-fear-level-detection-using-EEG-signals-in-humans</h1>
+    <h1 style="text-align:center;">Knowledge Distillation Based Fear Level Detection Using EEG Signals In Humans</h1>
+    <hr>
     <p align="center">
         <img src="https://img.shields.io/badge/Knowledge%20Distillation-Enabled-brightgreen" alt="Knowledge Distillation">
         <img src="https://img.shields.io/badge/Data-DEAP%20Dataset-blue" alt="DEAP Dataset">
-        <img src="https://img.shields.io/badge/Models-CNN%2C%20RNN%2C%20LSTM%2C%20Transformers-orange" alt="ML Models">
+        <img src="https://img.shields.io/badge/Models-CNN%2C%20RNN%2C%20LSTM%2C%20TCN-orange" alt="ML Models">
     </p>
     
     <h2>📋 Project Overview</h2>
