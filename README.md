@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Knowledge%20Distillation-Enabled-brightgreen" alt="Knowledge Distillation">
     <img src="https://img.shields.io/badge/Data-DEAP%20Dataset-blue" alt="DEAP Dataset">
-    <img src="https://img.shields.io/badge/Models-CNN%2C%20RNN%2C%20LSTM%2C%20TCN-orange" alt="ML Models">
+    <img src="https://img.shields.io/badge/Models-CNN%2C%20RNN%2C%20LSTM%2C%20TCN-orange" alt="DL Models">
 </p>
 
 <h2>📋 Project Overview</h2>
